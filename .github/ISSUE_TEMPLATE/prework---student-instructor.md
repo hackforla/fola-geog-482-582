@@ -1,5 +1,5 @@
 ---
-name: Prework - Student
+name: Prework - Student/Instructor
 about: An issue to get confirm students have access to the resources and train them
   on basic GitHub functions and Question/Review management
 title: 'Prework: [Replace with your name and remove brackets]'
