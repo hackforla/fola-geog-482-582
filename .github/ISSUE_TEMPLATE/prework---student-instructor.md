@@ -12,6 +12,7 @@ assignees: ''
 As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm you have access to the resources and train you on basic GitHub functions and Question/Review management
 
 ### Action Items
+- [ ] Add this issue to the P: FOLA: Bus Datasets: Project Board under Projects on the right side panel of this issue
 - [ ] Self assign this issue (gear in right side panel).  
   - [ ] If there are no gears on the right side panel of this issue (next to Assignees, Labels, Projects, Milestone, Development): 
      - [ ] check to see if you are logged in to GitHub (if you are not logged in you will see a sign in button on the top right of this browser tab).  
