@@ -3,7 +3,7 @@ name: Prework - Student/Instructor
 about: An issue to get confirm students have access to the resources and train them
   on basic GitHub functions and Question/Review management
 title: 'Prework: [Replace with your name and remove brackets]'
-labels: ''
+labels: 'feature: onboarding, missing: role, size: 0.25pt'
 assignees: ''
 
 ---
@@ -60,7 +60,7 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
 - [ ] add the ready for product label
 - [ ] move the issue into the Questions/Review column on the project board
 
-Resources/Instructions
+### Resources/Instructions
 
 - 1.01 FOLA Shared Google Drive Folder: [GEOG 482/582 - 2025- Q2, Project Work](https://drive.google.com/drive/folders/1McC5scDudg9gQhsrPS66JElFf8PXY9Lj)
 - 2.01 Pantry Listings Dataset (available Wednesday)
