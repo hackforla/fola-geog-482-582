@@ -36,7 +36,7 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
 - [ ] introduce yourself in the #fola-geog-482-582 Slack channel
 - [ ] make sure you can see the following FOLA resources
   - [ ] 1.01 shared Google Drive Folder
-  - [ ] 2.01 pantry listings dataset (it will be available wednesday
+  - [ ] 2.01 pantry listings dataset (it will be available Wednesday)
   - [ ] calendar invites
 - [ ] fill out the availability matrix
 - [ ] once you are done with all the prework steps, use the template below to provide an update on the issue
