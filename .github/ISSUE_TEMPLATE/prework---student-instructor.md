@@ -9,17 +9,16 @@ assignees: ''
 ---
 
 ### Overview
-As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm you have access to the resources and train you on basic GitHub functions and Question/Review management
+As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm you have access to the resources and train you on basic GitHub functions and Question/Review management, so that we can complete your onboarding
 
 ### Action Items
-- [ ] Add this issue to the P: FOLA: Bus Datasets: Project Board under Projects on the right side panel of this issue
 - [ ] Self assign this issue (gear in right side panel).  
-  - [ ] If there are no gears on the right side panel of this issue (next to Assignees, Labels, Projects, Milestone, Development): 
-     - [ ] check to see if you are logged in to GitHub (if you are not logged in you will see a sign in button on the top right of this browser tab).  
+  - If there are no gears on the right side panel of this issue (next to Assignees, Labels, Projects, Milestone, Development): 
+     -  check to see if you are logged in to GitHub (if you are not logged in you will see a sign in button on the top right of this browser tab).  
          - if you are not logged in
-            - [ ] log in and try to self assign again.  If that does not work, continue with the instructions below.
+            -  log in and try to self assign again.  If that does not work, continue with the instructions.
          - if you are logged in
-            - [ ] contact a FOLA PM in the #fola-geog-482-582 Slack channel with the following message
+            - contact a FOLA PM in the [#fola-geog-482-582](https://app.slack.com/client/T04502KQX/C08LMJQQCDB) Slack channel with the following message
                ```
                Hi.  I don't see the gear on my issue, here are my details:
                - issue: #
@@ -27,19 +26,19 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
                - date onboarded:
                - row on roster:               
                ```
-            - [ ] add the following text to a comment on this issue
-               ```
-               I don't have access, I have messaged a FOLA PM in the #fola-geog-482-582 Slack channel 
-
-               ```
-            - [ ] add the ready for product label
-            - [ ] move the issue into the Questions/Review column on the project board
-- [ ] introduce yourself in the #fola-geog-482-582 Slack channel
+- [ ] add role label
+  - if you are an instructor, add the `role: instructor` label
+  - if you are a student, add the `role: student` label
+- [ ] move this issue to the P: FOLA: Bus Datasets: Project Board under Projects
+   - [ ] select In Progress from the drop down once it has been moved
+- [ ] introduce yourself in the[ #fola-geog-482-582](https://app.slack.com/client/T04502KQX/C08LMJQQCDB) Slack channel
+- [ ] fill out the availability matrix (resource 3.01 below)
 - [ ] make sure you can see the following FOLA resources
   - [ ] 1.01 shared Google Drive Folder
-  - [ ] 2.01 pantry listings dataset (it will be available Wednesday)
+  - [ ] 2.01 pantry listings dataset
   - [ ] calendar invites
-- [ ] fill out the availability matrix
+     - Tuesdays, 12 to 1 PM
+     - TDB (works for Dr. Ban, Greg, Edwin and Hack for LA) 
 - [ ] once you are done with all the prework steps, use the template below to provide an update on the issue
 
 ```
@@ -61,8 +60,8 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
 - [ ] add the ready for product label
 - [ ] move the issue into the Questions/Review column on the project board
 
-### Resources/Instructions
+Resources/Instructions
 
 - 1.01 FOLA Shared Google Drive Folder: [GEOG 482/582 - 2025- Q2, Project Work](https://drive.google.com/drive/folders/1McC5scDudg9gQhsrPS66JElFf8PXY9Lj)
-- 2.01 Pantry Listings Dataset (available Wednesday)
+- 2.01 [Pantry Listings Dataset](https://drive.google.com/file/d/1wY9w8Sdyee7w2850f14WonxQWZ-Za_us/view?usp=drive_link) 
 - 3.01 [ FOLA & GEOG 482/582 Availability Matrix](https://docs.google.com/spreadsheets/d/1B-Gvuc8VbNcCk-2ylbvI7yaRZfZ5mQsw86OwfWy_6t0/edit?gid=0#gid=0)
