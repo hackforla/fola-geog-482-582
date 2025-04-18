@@ -12,6 +12,7 @@ assignees: ''
 As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm you have access to the resources and train you on basic GitHub functions and Question/Review management, so that we can complete your onboarding
 
 ### Action Items
+- [ ] add your name to your GitHub profile. See [GitHub tutorial: Changing your profile name](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#changing-your-profile-name)
 - [ ] Self assign this issue (gear in right side panel).  
   - If there are no gears on the right side panel of this issue (next to Assignees, Labels, Projects, Milestone, Development): 
      -  check to see if you are logged in to GitHub (if you are not logged in you will see a sign in button on the top right of this browser tab).  
