@@ -39,8 +39,13 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
   - [ ] calendar invites
      - Tuesdays, 12 to 1 PM
      - TDB (works for Dr. Ban, Greg, Edwin and Hack for LA) 
-- [ ] once you are done with all the prework steps, use the template below to provide an update on the issue
+- [ ] once you are done with all the prework steps, use the following information to make a saved reply template. Use this [GitHub tutorial: creating a saved reply](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply)
 
+Title
+```
+My Update
+```
+Body
 ```
 <details><summary>Instructions</summary>
 
@@ -57,6 +62,7 @@ As a GEOG 482/582 student or instructor on the FOLA team this issue will confirm
 4. ETA:
 5. Pictures (if necessary): 
 ```
+- [ ] use the saved reply in a comment at the bottom of this issue to give us an update on your progress. See [GitHub tutorial: using saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
 - [ ] add the ready for product label
 - [ ] move the issue into the Questions/Review column on the project board
 
